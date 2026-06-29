@@ -6,6 +6,10 @@
 
 **Perfil:** Recorta o domínio, escreve specs de produto, formaliza guardrails, e contribui a seção de produto do AGENTS.md. Deve demonstrar que traduz conhecimento de domínio em artefatos consumíveis por humanos e agentes.
 
+**Ferramentas esperadas:** Claude (chat) em todos; Claude Design no exercício 2.1.
+
+---
+
 ## Exercício 2.1 — Recorte de domínio e spec SDD do query endpoint
 
 **Tópicos avaliados:** Recorte de Domínio (bounded contexts, linguagem ubíqua), SDD (requirements.md).
@@ -49,4 +53,3 @@
 | Glossário conectado ao recorte de domínio | Termos consistentes com bounded contexts e linguagem ubíqua do exercício 2.1 (ou do input simulado) | Glossário desconectado |
 | Restrições de código concretas | "Toda resposta DEVE incluir campo `source_document`" — influencia Copilot | Restrições vagas |
 | Consistente com guardrails fornecidos | Os guardrails simulados (DEVE/NÃO DEVE/QUANDO EM DÚVIDA) estão refletidos | Contradiz os guardrails |
-
